@@ -24,3 +24,12 @@
     margin-top: 3.5%;
     padding-right: 5px;
 }
+
+.img{
+    background-image: asset-url('picture.jpg');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 1000px; 
+    
+}
